@@ -1,1 +1,0 @@
-# go-smt2-coursework
